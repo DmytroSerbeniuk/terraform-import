@@ -1,3 +1,3 @@
 locals {
-  name = "yeew"
+  name = "my"
 }
